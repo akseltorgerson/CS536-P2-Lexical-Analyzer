@@ -1,0 +1,63 @@
+ 	 	 	
+int
+if
+bool
+void
+struct
+receive
+print
+else
+while
+tru
+fls
+ret
+{
+}
+(
+)
+;
+,
+.
+<<
+>>
+++
++
+--
+-
+*
+/
+!
+&&
+||
+==
+!=
+<
+>
+>=
+<=
+=
+var
+_var
+__
+var1
+v_1
+69beef
+int test = 1 + 1;
+if (test == 1) print tru
+100
+-100
+9999
+""
+"&!88"
+"use \n to denote a newline character"
+"include a quote like this \" and a backslash like this \\"
+### comment
+/// comment
+"unterminated
+"also unterminated \"
+"
+"bad escaped character: \3
+"bad \
+"backslash followed by space: \ is not allowed"
+"bad escaped character: \a AND not terminated
+9999999999999999
