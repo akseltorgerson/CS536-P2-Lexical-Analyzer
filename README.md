@@ -1,1 +1,2 @@
 # CS536-P2-Lexical-Analyzer
+For this assignment you will use JLex to write a scanner for our language, called b, a small subset of the C++ language. Features of b that are relevant to this assignment are described below. You will also write a main program (P2.java) to test your scanner. You will be graded both on the correctness of your scanner and on how thoroughly your main program tests the scanner.
